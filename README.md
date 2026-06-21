@@ -26,6 +26,12 @@ A modern, lightning-fast React + TypeScript + Vite application designed to autom
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS + PostCSS
 
+## Scheduler Logic & Rules
+The core scheduling engine operates using a specialized heuristic algorithm that mimics real-world academic constraints:
+1. **Theory Prioritization & Distribution**: Standard theory subjects are randomly distributed across the available weekly slots (Monday to Friday) to ensure a balanced timetable without heavy clustering.
+2. **Daily Theory Limits**: A dynamic constraint ensures that the number of theory classes on any given day does not exceed a set maximum, preventing student burnout.
+3. **Contiguous Lab Assignments**: Practical Lab sessions (which require extended time) are strictly allocated to uninterrupted, consecutive 2-period blocks on the same day.
+4. **Collision Avoidance**: The generator natively guarantees that no single stream has overlapping classes in the same time slot.
 ## License
 This project is open-source and available for academic and administrative use.
 
