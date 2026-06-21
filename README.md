@@ -13,6 +13,12 @@ A modern, lightning-fast React + TypeScript + Vite application designed to autom
 - **Clean UI & Print-Ready**: Built with Tailwind CSS, featuring a wizard-like interface that exports directly to beautifully formatted, official-looking PDFs.
 - **Custom Branding**: Fully adjustable colors, logos, and letterheads to match institutional identity (Defaults to SRMU standards).
 
+## Preview (Screenshot)
+<img width="520" height="360" alt="image" src="https://github.com/user-attachments/assets/8e930019-6b34-4ead-a1b1-f64afe8d8410" />
+<img width="560" height="209" alt="image" src="https://github.com/user-attachments/assets/c7957775-6382-42bd-a9c2-21fd471322f7" />
+<img width="790" height="661" alt="image" src="https://github.com/user-attachments/assets/7e8aba56-4013-4331-92ab-75e8e17c13da" />
+
+
 
 ## Tech Stack
 - **Frontend Framework**: React 18
