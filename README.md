@@ -14,9 +14,9 @@ A modern, lightning-fast React + TypeScript + Vite application designed to autom
 - **Custom Branding**: Fully adjustable colors, logos, and letterheads to match institutional identity (Defaults to SRMU standards).
 
 ## Preview (Screenshot)
-<img width="520" height="360" alt="image" src="https://github.com/user-attachments/assets/8e930019-6b34-4ead-a1b1-f64afe8d8410" />
-<img width="560" height="209" alt="image" src="https://github.com/user-attachments/assets/c7957775-6382-42bd-a9c2-21fd471322f7" />
-<img width="790" height="661" alt="image" src="https://github.com/user-attachments/assets/7e8aba56-4013-4331-92ab-75e8e17c13da" />
+<img width="520" height="302" alt="image" src="https://github.com/user-attachments/assets/8e930019-6b34-4ead-a1b1-f64afe8d8410" />
+<img width="520" height="249" alt="image" src="https://github.com/user-attachments/assets/c7957775-6382-42bd-a9c2-21fd471322f7" />
+<img width="790" height="550" alt="image" src="https://github.com/user-attachments/assets/00569154-960d-483c-8d60-382612e12e68" />
 
 
 
